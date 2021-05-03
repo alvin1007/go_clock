@@ -1,4 +1,4 @@
-module github.com/alvin1007/hello_world
+module github.com/alvin1007/
 
 go 1.16
 
