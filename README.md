@@ -1,1 +1,4 @@
-# go_clock
+# use
+```
+go get github.com/asticode/go-astilectron
+```
