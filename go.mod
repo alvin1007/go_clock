@@ -1,4 +1,4 @@
-module github.com/alvin1007/
+module github.com/alvin1007/go_clock
 
 go 1.16
 
